@@ -268,7 +268,7 @@ button:active {
     z-index: 2;
     width: 32px;
     height: 32px;
-    margin-left: -20px;
+    margin-left: 19px;
 }
 
 .history-copy-button::before,
