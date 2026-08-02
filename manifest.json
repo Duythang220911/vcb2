@@ -1,31 +1,31 @@
 {
     "id": "./",
     "name": "VCB Digibank",
-    "short_name": "VCBDigibank",
+    "short_name": "VCB",
     "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",
     "orientation": "portrait",
-    "background_color": "#102ccf",
-    "theme_color": "#17283b",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "./img/app-icon-full.png",
+            "src": "./img/vcb-app-icon-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-           "src": "./img/vcb-app-icon-v4.png",
+            "src": "./img/vcb-app-icon-512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "any"
         },
-          {
-      "src": "./img/vcb-app-icon-v5.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+        {
+            "src": "./img/vcb-app-icon-full-v6.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any"
+        }
     ]
 }
